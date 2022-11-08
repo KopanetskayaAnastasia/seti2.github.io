@@ -1,0 +1,3 @@
+﻿  TCP_clnt.cpp
+C:\Users\Admin\source\repos\Project2\Project2\TCP_clnt.cpp(51,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\Project2\Project2\TCP_clnt.cpp(35,7): error C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
